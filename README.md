@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate, help me understand my code.
-- 📫 How to reach me elmnarpogi2000@gmail.com
+- 📫 How to reach me elmarpogi2000@gmail.com
 
 
 <!---
